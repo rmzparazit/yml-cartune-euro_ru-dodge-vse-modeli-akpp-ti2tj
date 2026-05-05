@@ -1,0 +1,72 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4a2/": {
+        "fingerprint": "a0d94439b64b71e26b5faf29b2c90d0b",
+        "raw_data": {
+            "h1_title": "АКПП TI2TJ Dodge Magnum 2004",
+            "brand": "Chrysler",
+            "price_raw": "38999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_292.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_293.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_294.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_295.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_296.jpg"
+            ],
+            "specs": {
+                "Марка": "Dodge",
+                "Модель": "Magnum",
+                "Кузов": "300",
+                "Двигатель": "EZB 5.7L HEMI",
+                "Год": "2004",
+                "Номер по производителю": "P52107907AB",
+                "Производитель": "Chrysler",
+                "Кросс-номера": "5143561AA, 5137631AA, 52107907AB"
+            },
+            "available": true,
+            "category_name": "АКПП",
+            "category_usp": "",
+            "description_usp": "Контрактная АКПП TI2TJ для Dodge Magnum 2004 5.7L HEMI, пробег 179470 км, с аукционным листом",
+            "sales_notes": "Оригинальный пробег 179470 км, аукционный лист, доставка по РФ",
+            "custom_labels": [
+                "Б/У",
+                "Chrysler",
+                "Контрактный",
+                "АКПП"
+            ],
+            "variations": [
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "Контрактная АКПП TI2TJ для Dodge Magnum 2004 5.7L HEMI, пробег 179470 км, с аукционным листом. Оригинальный пробег, подтвержденный документально."
+                },
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "АКПП TI2TJ от Dodge Magnum 2004, двигатель EZB 5.7L HEMI. Пробег 179470 км, аукционный лист в наличии."
+                },
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "Контрактная коробка передач TI2TJ для Dodge Magnum 2004. Оригинальный пробег 179470 км, аукционный лист прилагается."
+                },
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "АКПП TI2TJ с пробегом 179470 км для Dodge Magnum 2004 5.7L HEMI. Есть аукционный лист из Японии."
+                },
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "Коробка автомат TI2TJ для Dodge Magnum 2004, двигатель 5.7L HEMI. Пробег 179470 км, аукционный лист в комплекте."
+                },
+                {
+                    "title": "АКПП TI2TJ Dodge Magnum 2004",
+                    "description": "АКПП TI2TJ от Dodge Magnum 2004, кузов 300, двигатель EZB 5.7L HEMI. Пробег 179470 км, аукционный лист."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Контрактная [ТИП_ЗАПЧАСТИ] для [МАРКА] [МОДЕЛЬ] [ГОД] [ДВИГАТЕЛЬ], пробег [ПРОБЕГ] км, с аукционным листом",
+            "collection_description": "Контрактная АКПП Chrysler Magnum (кузов 300, двс EZB 5.7L HEMI)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T21:43:32.667024"
+    }
+}
